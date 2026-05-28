@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=AANISH%20DESHMUKH&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Former%20Security%20Researcher&descAlignY=60&descSize=18"/>
@@ -201,4 +200,4 @@ style F fill:#8A2BE2,color:#fff
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-````
+
