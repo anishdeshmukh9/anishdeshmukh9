@@ -1,10 +1,9 @@
+````md
 <div align="center">
 
-# ⚡ AANISH DESHMUKH ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=AANISH%20DESHMUKH&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Former%20Security%20Researcher&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Agentic+AI+Engineer;Cybersecurity+Enthusiast;RAG+%7C+LangGraph+%7C+MCP+%7C+A2A;Building+Autonomous+AI+Systems;AI+%2B+Security+%2B+Automation" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=GENAI%20ENGINEER&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20AI%20Systems%20For%20The%20Future&descAlignY=60&descSize=18"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Agentic+AI+Systems;RAG+%7C+LangGraph+%7C+MCP+%7C+A2A;AI+Infrastructure+Engineer;Former+Pentester+Turned+AI+Builder;Autonomous+Workflows+%2B+AI+Security" />
 
 </div>
 
@@ -12,181 +11,39 @@
 
 <div align="center">
 
-### 🧠 AI Engineer • 🔐 Security Researcher • ⚡ Agentic Systems Builder
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,docker,linux,git,github,vscode,firebase" />
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-```bash
-> whoami
-
-Aanish Deshmukh
-B.Tech CSE (IoT + Cybersecurity + Blockchain)
-
-> current_focus
-
-- Agentic AI Systems
-- Multi-Agent Architectures
-- LangGraph Workflows
-- RAG Pipelines
-- AI Security
-- MCP Ecosystems
-- AI Automation Infrastructure
-
-> currently_building
-
-- AI Multilingual Business Assistant
-- WhatsApp AI Automation Systems
-- Browser-based RAG Applications
-- AI + Cybersecurity Workflows
-
-> philosophy
-
-"Building autonomous systems that combine intelligence,
-security, and real-world usefulness."
-```
-
----
-
-# ⚡ TECH STACK
-
 <div align="center">
-
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash" />
-
----
-
-## ⚡ Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,firebase" />
-
----
-
-## 🧠 AI / ML / GenAI
 
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-FF1744?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/A2A-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangSmith-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VectorDB-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-5E35B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-
----
-
-## 🛢️ Database & DevOps
-
-<img src="https://skillicons.dev/icons?i=mongodb,docker,git,github,linux,vscode" />
-
----
-
-## 🔐 Cybersecurity
-
-<img src="https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XSS-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IDOR-darkred?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSRF-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevSecOps-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_SECURITY-FF3D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLSecOps-7B1FA2?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 AI SYSTEM ARCHITECTURE
+# 
 
 <div align="center">
 
-```mermaid
-graph TD
-
-A[User Query] --> B[FastAPI Gateway]
-B --> C[LangGraph Agent]
-C --> D[Tool Calling Layer]
-D --> E[Vector Database]
-D --> F[External APIs]
-E --> G[RAG Pipeline]
-G --> H[LLM Reasoning]
-H --> I[Response Generation]
-I --> J[WhatsApp / Dashboard]
-
-style C fill:#00F7FF,color:#000
-style H fill:#8A2BE2,color:#fff
-style G fill:#00C853,color:#fff
+```txt
+AI Engineer focused on Agentic Systems, RAG Pipelines,
+Autonomous Workflows, AI Infrastructure & AI Security.
 ```
 
 </div>
 
 ---
-
-# 🚀 FEATURED PROJECTS
-
----
-
-## 🤖 AI Multilingual Business Assistant
-
-### ⚡ Agentic AI + WhatsApp Automation Platform
-
-- 🧠 LangGraph-based autonomous workflows
-- 🌍 Multilingual conversation handling
-- 🔎 RAG-powered business knowledge retrieval
-- 📲 WhatsApp API integration
-- 🛠️ Tool-calling AI agents
-- 📊 Admin dashboard for management
-- 🔐 Secure architecture
-
-### Tech Used
-
-```txt
-FastAPI • LangChain • LangGraph • React • MongoDB
-RAG • OpenAI APIs • WhatsApp API • Vector DB
-```
-
----
-
-## 🧠 MediumPilot
-
-### Browser-based RAG Assistant for Medium Articles
-
-- 📖 AI chatbot injected into Medium articles
-- 🧠 Context-aware retrieval system
-- 🔎 ChromaDB vector search
-- ⚡ LangSmith monitoring
-- 🌐 Browser Extension architecture
-
-### Pipeline
-
-```txt
-HTML Loader → Text Splitter → ChromaDB →
-Retriever → Augmentation → LLM Generation
-```
-
----
-
-## 🔐 Security Research & Pentesting
-
-### Real-world vulnerability assessment experience
-
-Worked on:
-
-- XSS
-- IDOR
-- CSRF
-- Rate Limiting
-- Authentication flaws
-- Security analysis
-
----
-
-# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -206,17 +63,88 @@ Worked on:
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
-
 <div align="center">
 
-[![Aanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anishdeshmukh9&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anishdeshmukh9&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+# ⚡ AI ENGINEERING
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Agentic AI
+
+Multi-agent workflows  
+Tool Calling  
+Autonomous Systems  
+LangGraph Orchestration  
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ RAG Systems
+
+ChromaDB  
+Vector Search  
+Retrieval Pipelines  
+Context Engineering  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔐 AI Security
+
+Pentesting Background  
+OWASP  
+Security Research  
+AI + Security  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+
+</div>
+
+---
+
+# 🚀 CURRENT FOCUS
+
+<div align="center">
+
+| AI Systems | Security | Infrastructure |
+|:---:|:---:|:---:|
+| LangGraph | OWASP | Docker |
+| RAG | Pentesting | FastAPI |
+| MCP | AI Security | APIs |
+| A2A | Threat Analysis | Vector DB |
+
+</div>
+
+---
 
 <div align="center">
 
@@ -226,56 +154,51 @@ Worked on:
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+```mermaid
+graph LR
+
+A[User] --> B[AI Gateway]
+B --> C[LangGraph]
+C --> D[RAG]
+C --> E[Tools]
+D --> F[LLM]
+E --> F
+F --> G[Autonomous Response]
+
+style C fill:#00F7FF,color:#000
+style D fill:#00C853,color:#fff
+style F fill:#8A2BE2,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/anishdeshmukh9">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:anishdeshmukh9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/anishdeshmukh9">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
 <div align="center">
 
-![snake gif](https://github.com/anishdeshmukh9/anishdeshmukh9/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
----
-
-# ⚡ CURRENT INTERESTS
-
-```txt
-Agentic AI
-AI Security
-RAG Systems
-A2A Communication
-MCP Ecosystems
-AI Infrastructure
-LLMOps
-MLSecOps
-Autonomous Workflows
-```
-
----
-
-<div align="center">
-
-## ⚡ “Building Intelligent Systems Beyond Simple Chatbots”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+````
