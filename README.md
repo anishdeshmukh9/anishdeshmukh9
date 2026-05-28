@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:111827,100:1F2937&text=AANISH%20DESHMUKH&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Former%20Security%20Researcher&descAlignY=60&descSize=18"/>
@@ -196,4 +196,3 @@ AI Security
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
 
 </div>
-```
