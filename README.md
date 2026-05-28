@@ -1,8 +1,13 @@
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=AANISH%20DESHMUKH&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Former%20Security%20Researcher&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:111827,100:1F2937&text=AANISH%20DESHMUKH&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Former%20Security%20Researcher&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Agentic+AI+Systems;RAG+%7C+LangGraph+%7C+MCP+%7C+A2A;AI+Infrastructure+Engineer;Former+Pentester+Turned+AI+Builder;Autonomous+Workflows+%2B+AI+Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Agentic+AI+Systems;Autonomous+AI+Workflows;LangGraph+•+RAG+•+MCP+•+A2A;AI+Infrastructure+Engineer;AI+Security+%2B+Intelligent+Automation" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anishdeshmukh9&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -10,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,docker,linux,git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,docker,linux,git,github,vscode,firebase&theme=dark" />
 
 </div>
 
@@ -19,26 +24,13 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-FF1744?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/A2A-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_SECURITY-FF3D00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLSecOps-7B1FA2?style=for-the-badge"/>
-
-</div>
-
----
-
-# 
-
-<div align="center">
-
-```txt
-AI Engineer focused on Agentic Systems, RAG Pipelines,
-Autonomous Workflows, AI Infrastructure & AI Security.
-```
+<img src="https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A2A-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_SECURITY-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLSecOps-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -46,9 +38,21 @@ Autonomous Workflows, AI Infrastructure & AI Security.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anishdeshmukh9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+```yaml
+name: Aanish Deshmukh
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdeshmukh9&theme=tokyonight&hide_border=true&background=0D1117"/>
+role:
+  - AI Engineer
+  - Agentic Systems Builder
+  - Former Security Researcher
+
+specialization:
+  - Autonomous AI Systems
+  - RAG Pipelines
+  - Multi-Agent Workflows
+  - AI Infrastructure
+  - AI Security
+````
 
 </div>
 
@@ -56,56 +60,67 @@ Autonomous Workflows, AI Infrastructure & AI Security.
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdeshmukh9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8B5CF6&height=2"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anishdeshmukh9&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ AI ENGINEERING
+# ⚡ AI ECOSYSTEM
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🧠 Agentic AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
 
-Multi-agent workflows  
-Tool Calling  
-Autonomous Systems  
-LangGraph Orchestration  
+### AI Core
 
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ RAG Systems
-
-ChromaDB  
-Vector Search  
-Retrieval Pipelines  
-Context Engineering  
+LangChain
+LangGraph
+FastAPI
+LLMs
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🔐 AI Security
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/>
 
-Pentesting Background  
-OWASP  
-Security Research  
-AI + Security  
+### Infrastructure
+
+Docker
+APIs
+Linux
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/>
+
+### AI Interfaces
+
+React
+Dashboards
+AI UX
+Realtime Systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/>
+
+### Security
+
+OWASP
+Pentesting
+Threat Analysis
+AI Security
 
 </td>
 </tr>
@@ -115,20 +130,9 @@ AI + Security
 
 ---
 
-
-
----
-
-# 🚀 CURRENT FOCUS
-
 <div align="center">
 
-| AI Systems | Security | Infrastructure |
-|:---:|:---:|:---:|
-| LangGraph | OWASP | Docker |
-| RAG | Pentesting | FastAPI |
-| MCP | AI Security | APIs |
-| A2A | Threat Analysis | Vector DB |
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anishdeshmukh9&bg_color=0B0F19&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -138,7 +142,26 @@ AI + Security
 
 ---
 
-# 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8B5CF6&height=2"/>
+
+</div>
 
 ---
 
@@ -162,7 +185,15 @@ AI + Security
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://raw.githubusercontent.com/anishdeshmukh9/anishdeshmukh9/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
+
+</div>
+```
