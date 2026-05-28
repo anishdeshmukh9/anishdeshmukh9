@@ -115,18 +115,7 @@ AI + Security
 
 ---
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
-
-</div>
 
 ---
 
@@ -150,26 +139,6 @@ AI + Security
 ---
 
 # 
-
-<div align="center">
-
-```mermaid
-graph LR
-
-A[User] --> B[AI Gateway]
-B --> C[LangGraph]
-C --> D[RAG]
-C --> E[Tools]
-D --> F[LLM]
-E --> F
-F --> G[Autonomous Response]
-
-style C fill:#00F7FF,color:#000
-style D fill:#00C853,color:#fff
-style F fill:#8A2BE2,color:#fff
-```
-
-</div>
 
 ---
 
